@@ -90,6 +90,10 @@ shift + alt - j : yabai -m window --swap south
 shift + alt - k : yabai -m window --swap north
 shift + alt - l : yabai -m window --swap east
 
+ctrl + alt - f1 : yabai -m space --focus 1
+ctrl + alt - f2 : yabai -m space --focus 2
+
+
 
 # 
 # # move managed window
@@ -156,3 +160,6 @@ alt - e : yabai -m window --toggle split
 # # toggle sticky(+float), topmost, picture-in-picture
 # # alt - p : yabai -m window --toggle sticky --toggle topmost --toggle pip
 # 
+#
+
+
